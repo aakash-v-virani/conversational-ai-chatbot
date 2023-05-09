@@ -1,1 +1,2 @@
 rasa==1.10.1
+sanic>=20.12.6 # not directly required, pinned by Snyk to avoid a vulnerability
