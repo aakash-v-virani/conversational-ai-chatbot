@@ -1,5 +1,5 @@
 transformers
-pyarrow==10.0.0
+pyarrow==14.0.1
 datasets
 soundfile
 torch
