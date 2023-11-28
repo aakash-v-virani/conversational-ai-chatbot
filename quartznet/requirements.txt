@@ -3,3 +3,4 @@ datasets
 librosa==0.8.1
 torch==1.9.1
 envparse
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
