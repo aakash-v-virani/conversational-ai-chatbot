@@ -4,3 +4,4 @@ tqdm
 numba==0.49.0 
 librosa 
 pyyaml
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
