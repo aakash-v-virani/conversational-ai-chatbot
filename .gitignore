@@ -1,0 +1,3 @@
+# Backup directory - exclude all files except __init__.py
+bkp/*
+!bkp/__init__.py
